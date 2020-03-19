@@ -1,6 +1,6 @@
 ## Imani Events - Event planners and outdoor decor services.
 
-[Demo link](http://https://koitoror.github.io/Imani-Events/)
+[Demo link](http://koitoror.github.io/Imani-Events/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
