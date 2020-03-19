@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/koitoror.github.io/Imani-Events/static/css/main.4b8917c3.chunk.css",
+    "main.js": "/koitoror.github.io/Imani-Events/static/js/main.b4575139.chunk.js",
+    "main.js.map": "/koitoror.github.io/Imani-Events/static/js/main.b4575139.chunk.js.map",
+    "runtime-main.js": "/koitoror.github.io/Imani-Events/static/js/runtime-main.b1eb6f79.js",
+    "runtime-main.js.map": "/koitoror.github.io/Imani-Events/static/js/runtime-main.b1eb6f79.js.map",
+    "static/css/2.2dc9dcb9.chunk.css": "/koitoror.github.io/Imani-Events/static/css/2.2dc9dcb9.chunk.css",
+    "static/js/2.3a419b0c.chunk.js": "/koitoror.github.io/Imani-Events/static/js/2.3a419b0c.chunk.js",
+    "static/js/2.3a419b0c.chunk.js.map": "/koitoror.github.io/Imani-Events/static/js/2.3a419b0c.chunk.js.map",
+    "index.html": "/koitoror.github.io/Imani-Events/index.html",
+    "precache-manifest.86a81d09372e21cdc654746be5e7d1b5.js": "/koitoror.github.io/Imani-Events/precache-manifest.86a81d09372e21cdc654746be5e7d1b5.js",
+    "service-worker.js": "/koitoror.github.io/Imani-Events/service-worker.js",
+    "static/css/2.2dc9dcb9.chunk.css.map": "/koitoror.github.io/Imani-Events/static/css/2.2dc9dcb9.chunk.css.map",
+    "static/css/main.4b8917c3.chunk.css.map": "/koitoror.github.io/Imani-Events/static/css/main.4b8917c3.chunk.css.map",
+    "static/js/2.3a419b0c.chunk.js.LICENSE.txt": "/koitoror.github.io/Imani-Events/static/js/2.3a419b0c.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/koitoror.github.io/Imani-Events/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1eb6f79.js",
+    "static/css/2.2dc9dcb9.chunk.css",
+    "static/js/2.3a419b0c.chunk.js",
+    "static/css/main.4b8917c3.chunk.css",
+    "static/js/main.b4575139.chunk.js"
+  ]
+}
