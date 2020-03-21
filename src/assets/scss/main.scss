@@ -1,0 +1,27 @@
+// BASE / ABSTRACT
+@import "base/base";
+
+// COMPONENTS
+//@import "components/card";
+@import "components/articleItem";
+@import "components/pagination";
+@import "components/like";
+@import "components/search";
+@import "components/notification";
+
+
+// LAYOUT
+@import "layout/header";
+@import "layout/footer";
+
+// PAGES
+@import "pages/login";
+@import "pages/register";
+@import "pages/home";
+@import "pages/createArticle";
+@import "pages/articleDraft";
+@import "pages/notFoundPage";
+@import "pages/profile";
+@import "pages/singleProfile";
+@import "pages/settings";
+@import "pages/stats";
