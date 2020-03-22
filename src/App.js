@@ -2,6 +2,7 @@ import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
 import 'semantic-ui-css/semantic.min.css'
+import 'bootstrap/dist/css/bootstrap.css';
 // import  HeaderExampleImage  from './components/Header'
 // import  FormExampleFieldControlId  from './components/Login'
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
@@ -36,7 +37,7 @@ const switchRoutes = (
 
 const App = () => (
   // <Provider store={store}>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         {switchRoutes}
       </div>

@@ -5,6 +5,8 @@ import './index.css';
 import 'semantic-ui-css/semantic.min.css'
 // import 'semantic-ui-css/semantic.js';
 import './assets/scss/main.scss';
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 
 import App from './App';
