@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Imani-Events/precache-manifest.70433f4fdf00f07b85075e4b418074f8.js"
+  "/Imani-Events/precache-manifest.561c6433bdb0db924e5d697c57482eb2.js"
 );
 
 self.addEventListener('message', (event) => {

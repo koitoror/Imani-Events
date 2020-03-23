@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd185bf3724a8176068d39315b638bba",
+    "revision": "7b21c1cdfbaa21c392693092be647883",
     "url": "/Imani-Events/index.html"
   },
   {
-    "revision": "79b591a80c5496a8cc0a",
+    "revision": "03926224f9d9b4098962",
     "url": "/Imani-Events/static/css/2.ba822a8a.chunk.css"
   },
   {
-    "revision": "83bbdad0a271388f9686",
+    "revision": "f407096c6171841e47d9",
     "url": "/Imani-Events/static/css/main.f0b4e07f.chunk.css"
   },
   {
-    "revision": "79b591a80c5496a8cc0a",
-    "url": "/Imani-Events/static/js/2.902a6a52.chunk.js"
+    "revision": "03926224f9d9b4098962",
+    "url": "/Imani-Events/static/js/2.313cead5.chunk.js"
   },
   {
     "revision": "03ad7a539ac78b14d19a6a6a77322b49",
-    "url": "/Imani-Events/static/js/2.902a6a52.chunk.js.LICENSE.txt"
+    "url": "/Imani-Events/static/js/2.313cead5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83bbdad0a271388f9686",
-    "url": "/Imani-Events/static/js/main.2031eec7.chunk.js"
+    "revision": "f407096c6171841e47d9",
+    "url": "/Imani-Events/static/js/main.a64aa641.chunk.js"
   },
   {
     "revision": "829bcaa80b843d47c809",
