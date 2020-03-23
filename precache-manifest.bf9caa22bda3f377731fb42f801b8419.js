@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b21c1cdfbaa21c392693092be647883",
+    "revision": "843ea0bad44a8210ef7722f25642f932",
     "url": "/Imani-Events/index.html"
   },
   {
